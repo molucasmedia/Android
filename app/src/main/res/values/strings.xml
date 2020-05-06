@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ambontoday</string>
+    <string name="logo">Logo</string>
+    <string name="masuk">Masuk</string>
+    <string name="name">Name</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="textview">TextView</string>
+    <string name="todo">bgright</string>
+    <string name="silakan_login_untuk_masuk">Silakan login untuk masuk</string>
+    <string name="login">Login</string>
+    <string name="buat_akun_baru">Buat Akun Baru</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <transition
+
+        motion:constraintSetStart="@layout/activity_welcome_start"
+        motion:constraintSetEnd="@layout/activity_welcome_end"
+        motion:duration="1000">
+
+        <onclick motion:targetId="@id/imageView"/>
+
+    </transition>
+
+</MotionScene>
